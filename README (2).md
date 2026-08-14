@@ -85,13 +85,15 @@ La organización del proyecto contempla una clase para representar al estudiante
 
 Formulario para registrar un nuevo estudiante, con campos para ID, nombre, edad, sexo (ComboBox), carrera, estado (ComboBox) y fecha.
 
-![Registrar estudiante](capturas/registrar-estudiante.png)
+![Registrar estudiante](<img width="940" height="691" alt="registrar-estudiante" src="https://github.com/user-attachments/assets/edb1e07a-2b6c-49cb-b3da-3fb5b3c56625" />
+
 
 ### Listado de estudiantes
 
 La pantalla de listado permite visualizar los estudiantes registrados mediante un `DataGridView`. También incluye opciones para buscar, refrescar, editar el registro seleccionado y eliminarlo.
 
-![Listado de estudiantes](capturas/listado-estudiantes.png)
+![Listado de estudiantes](<img width="940" height="712" alt="listado-estudiantes" src="https://github.com/user-attachments/assets/b06458be-0026-4b10-b78a-2cca4297b57d" />
+
 
 ## Requisitos del proyecto
 
