@@ -81,28 +81,17 @@ La organización del proyecto contempla una clase para representar al estudiante
 
 ## Capturas de pantalla
 
+### Registrar estudiante
+
+Formulario para registrar un nuevo estudiante, con campos para ID, nombre, edad, sexo (ComboBox), carrera, estado (ComboBox) y fecha.
+
+![Registrar estudiante](capturas/registrar-estudiante.png)
+
 ### Listado de estudiantes
 
 La pantalla de listado permite visualizar los estudiantes registrados mediante un `DataGridView`. También incluye opciones para buscar, refrescar, editar el registro seleccionado y eliminarlo.
 
-> **Nota:** Para el repositorio de GitHub, colocar las capturas en una carpeta como `capturas/` y actualizar las rutas de las imágenes si se desea mostrarlas directamente en esta sección.
-
-Ejemplo:
-
-```text
-capturas/
-├── listado-estudiantes.png
-├── registrar-estudiante.png
-├── buscar-estudiante.png
-├── actualizar-estudiante.png
-└── eliminar-estudiante.png
-```
-
-Luego pueden insertarse en este README utilizando:
-
-```markdown
 ![Listado de estudiantes](capturas/listado-estudiantes.png)
-```
 
 ## Requisitos del proyecto
 
