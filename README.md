@@ -81,6 +81,10 @@ La organización del proyecto contempla una clase para representar al estudiante
 
 ## Capturas de pantalla
 
+capturas/Captura de pantalla 2026-08-13 224909.png
+capturas/Captura de pantalla 2026-08-13 224938.png
+capturas/Captura de pantalla 2026-08-13 224958.png
+
 ### Listado de estudiantes
 
 La pantalla de listado permite visualizar los estudiantes registrados mediante un `DataGridView`. También incluye opciones para buscar, refrescar, editar el registro seleccionado y eliminarlo.
