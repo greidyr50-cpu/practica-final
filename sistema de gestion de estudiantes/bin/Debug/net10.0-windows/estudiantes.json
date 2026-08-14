@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "A001",
+    "Nombre": "Mar\u00EDa P\u00E9rez",
+    "Edad": 20,
+    "Sexo": 1,
+    "Carrera": "Ingenier\u00EDa de Software",
+    "Estado": 0,
+    "FechaInscripcion": "2026-02-13T21:13:14.7888948-04:00"
+  },
+  {
+    "Id": "A002",
+    "Nombre": "Juan G\u00F3mez",
+    "Edad": 22,
+    "Sexo": 0,
+    "Carrera": "Contabilidad",
+    "Estado": 0,
+    "FechaInscripcion": "2025-08-13T21:13:14.7889454-04:00"
+  },
+  {
+    "Id": "A003",
+    "Nombre": "Ana Ruiz",
+    "Edad": 23,
+    "Sexo": 1,
+    "Carrera": "Psicolog\u00EDa",
+    "Estado": 2,
+    "FechaInscripcion": "2022-08-13T21:13:14.7889582-04:00"
+  }
+]

@@ -1,0 +1,15 @@
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\bin\Debug\net10.0-windows\sistema de gestion de estudiantes.exe
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\bin\Debug\net10.0-windows\sistema de gestion de estudiantes.deps.json
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\bin\Debug\net10.0-windows\sistema de gestion de estudiantes.runtimeconfig.json
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\bin\Debug\net10.0-windows\sistema de gestion de estudiantes.dll
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\bin\Debug\net10.0-windows\sistema de gestion de estudiantes.pdb
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\obj\Debug\net10.0-windows\sistema de gestion de estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\obj\Debug\net10.0-windows\sistema de gestion de estudiantes.AssemblyInfoInputs.cache
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\obj\Debug\net10.0-windows\sistema de gestion de estudiantes.AssemblyInfo.cs
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\obj\Debug\net10.0-windows\sistema de gestion de estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\obj\Debug\net10.0-windows\sistema de gestion de estudiantes.dll
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\obj\Debug\net10.0-windows\refint\sistema de gestion de estudiantes.dll
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\obj\Debug\net10.0-windows\sistema de gestion de estudiantes.pdb
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\obj\Debug\net10.0-windows\sistema de gestion de estudiantes.genruntimeconfig.cache
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\obj\Debug\net10.0-windows\ref\sistema de gestion de estudiantes.dll
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\obj\Debug\net10.0-windows\sistema .0CC62E32.Up2Date

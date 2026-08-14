@@ -1,0 +1,4 @@
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\obj\Debug\net10.0\sistema de gestion de estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\obj\Debug\net10.0\sistema de gestion de estudiantes.AssemblyInfoInputs.cache
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\obj\Debug\net10.0\sistema de gestion de estudiantes.AssemblyInfo.cs
+C:\Users\Esta Si\OneDrive\Documentos\tarea\sistema de gestion de estudiantes\obj\Debug\net10.0\sistema de gestion de estudiantes.csproj.CoreCompileInputs.cache
