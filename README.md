@@ -81,9 +81,7 @@ La organización del proyecto contempla una clase para representar al estudiante
 
 ## Capturas de pantalla
 
-capturas/Captura de pantalla 2026-08-13 224909.png
 capturas/Captura de pantalla 2026-08-13 224938.png
-capturas/Captura de pantalla 2026-08-13 224958.png
 
 ### Listado de estudiantes
 
