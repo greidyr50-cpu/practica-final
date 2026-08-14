@@ -4,11 +4,12 @@ Aplicación de escritorio desarrollada en **C# con Windows Forms** para gestiona
 
 ## Integrantes
 
-| Nombre completo | Matrícula |
-|---|---|
-| Braudin Frias | 2023-3975 |
-| JUSTIN EMMANUEL SANTANA CES | 2023-4538 |
-| Greidy Recio | 2023-3961 |
+| Nombre completo             | Matrícula |
+| --------------------------- | --------- |
+| Braudin Frias               | 2023-3975 |
+| Justin Emmanuel Santana Ces | 2023-4538 |
+| Moises Alexander Jeffers    | 2023-3238 |
+| Greidy Recio                | 2023-3961 |
 
 ## Descripción breve
 
